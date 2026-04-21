@@ -1,3 +1,3 @@
-What will i do with this enormous ammount of knowledge?
+What will i do with this GIGANTIC ammount of knowledge?
 #include<iostream> /n using namespacestd;
 # Star Project
